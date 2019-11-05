@@ -1,0 +1,6 @@
+/home/sem/JetBrainsProgs/clion-2019.1.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/sem/CLionProjects/02_radomized_queue_n_deque-SemBarner22-master
+-- Configuring done
+CMake Error: Cannot determine link language for target "randomized_deque.hpp".
+CMake Error: CMake can not determine linker language for target: randomized_deque.hpp
+-- Generating done
+-- Build files have been written to: /home/sem/CLionProjects/02_radomized_queue_n_deque-SemBarner22-master/cmake-build-debug

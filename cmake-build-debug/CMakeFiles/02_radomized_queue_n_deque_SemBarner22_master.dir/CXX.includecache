@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sem/CLionProjects/02_radomized_queue_n_deque-SemBarner22-master/randomized_queue.hpp
+glob.h
+-
+vector
+/home/sem/CLionProjects/02_radomized_queue_n_deque-SemBarner22-master/vector
+random
+/home/sem/CLionProjects/02_radomized_queue_n_deque-SemBarner22-master/random
+
+/home/sem/CLionProjects/02_radomized_queue_n_deque-SemBarner22-master/randomized_queue_test.cpp
+randomized_queue.hpp
+/home/sem/CLionProjects/02_radomized_queue_n_deque-SemBarner22-master/randomized_queue.hpp
+string
+-
+iostream
+-
+cassert
+-
+
